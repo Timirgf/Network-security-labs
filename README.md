@@ -1,2 +1,2 @@
-# Network-security-labs
+# Network-Security-Labs
 Vlans
