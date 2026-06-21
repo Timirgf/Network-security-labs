@@ -26,5 +26,7 @@ router-on-a-stick with trunking between R1 and SW1.
   default gateway for its subnet
 - Set static IP addressing on each PC with the correct gateway
 
+Verification
+Vlan assignment
 
 
