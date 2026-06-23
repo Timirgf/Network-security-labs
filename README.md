@@ -171,10 +171,15 @@ the blast radius if something goes wrong on that link.
 On SW2, Gig0/2:
 
 SW2(config)#interface gigabitEthernet 0/2
+
 SW2(config-if)#switchport trunk encapsulation dot1q
+
 SW2(config-if)#switchport mode trunk
+
 SW2(config-if)#switchport trunk native vlan 1001
+
 SW2(config-if)#switchport trunk allowed vlan 10,20,30
+
 SW2(config-if)#exit
 
 WHY VLAN 20 IS INCLUDED HERE:
